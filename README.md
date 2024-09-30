@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋🏾
 
+👨🏽‍💻 I'm a software engineer, working at GitHub, and working on data pipelines.
+
+🐍 I'm currently learning Python at a deeper level, and working on passion projects with the [Dearborn Coding Club](https://github.com/dearborn-coding-club/) open source coding group.
+
+📧 You can reach me on linkedin [here](https://www.linkedin.com/in/kunle-oshiyoye-915b22b1/).
 <!--
 **MgenGlder/MgenGlder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
